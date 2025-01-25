@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from './components/header';  // Corrected the filename to match the actual filename
 import { Route, Routes } from 'react-router-dom';
-import Home from './components/home';  // Corrected the component name to match the actual filename
+import Home from './components/home';  // Corrected the component name to 
 import Counsellor from './components/counceller';  // Corrected the filename to match the actual filename
 import Signin from './components/signin.js';
 import Signup from './components/signup.js';
